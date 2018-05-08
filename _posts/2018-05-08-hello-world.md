@@ -1,2 +1,7 @@
-** hello, every body. **
-bala bala
+---
+layout: post
+title: "推荐湾区日报"
+date: 2018-05-08
+---
+湾区日报(wanqu.co)更新停勤快，内容也合口味，几乎每天必读。
+欠他一杯咖啡。
